@@ -3,6 +3,7 @@
   <router-view></router-view>
   <button v-on:click="test()">axios test</button>
   <button type="button" class="btn btn-primary">부트스트랩 테스트</button>
+  <button type="button" class="btn btn-primary">클론 테스트</button>
   <div class="sassTest">
     <p>sassTest_blue</p>
   </div>
